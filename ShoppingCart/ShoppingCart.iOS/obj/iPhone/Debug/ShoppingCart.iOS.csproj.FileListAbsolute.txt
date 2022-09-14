@@ -1,0 +1,7 @@
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\optimized\
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\ShoppingCart.iOS.csprojAssemblyReference.cache
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingCart\ShoppingCart.iOS\obj\iPhone\Debug\ShoppingCart.iOS.csproj.CoreCompileInputs.cache

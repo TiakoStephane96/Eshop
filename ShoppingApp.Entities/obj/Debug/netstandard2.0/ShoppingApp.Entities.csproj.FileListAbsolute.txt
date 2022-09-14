@@ -1,0 +1,8 @@
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\bin\Debug\netstandard2.0\ShoppingApp.Entities.deps.json
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\bin\Debug\netstandard2.0\ShoppingApp.Entities.dll
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\bin\Debug\netstandard2.0\ShoppingApp.Entities.pdb
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.csproj.CoreCompileInputs.cache
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.AssemblyInfoInputs.cache
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.AssemblyInfo.cs
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.dll
+E:\Programmation2 Multitouches\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.pdb
